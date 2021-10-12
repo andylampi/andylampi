@@ -2,7 +2,7 @@
 I am web developer and i love programming, computer science, ecc...
 
 - 🚀 I’m currently learning Javascript;
-### <this is me :joy: align="right"/><img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="308" height="318" />
+### this is me :joy: <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="308" height="318" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
