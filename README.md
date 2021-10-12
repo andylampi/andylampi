@@ -14,4 +14,4 @@
        
   
  
-<img heigth="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username={andylampi}" />
+<img heigth="180" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
