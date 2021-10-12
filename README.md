@@ -1,5 +1,6 @@
 ### Hi there, I am Andrea Lampitelli  👋
-I am web developer <img src="https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif" />
+I am web developer and i love programming, computer science, ecc...
+img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="308" height="318" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
