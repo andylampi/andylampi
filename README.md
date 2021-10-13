@@ -10,7 +10,7 @@ I'm an suitor junior web developer and i love programming, computer science, ecc
 
        visitors
       
- <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=andylampi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"  width="40%"  heigth="200"/>
+ <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=andylampi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"  width="40%"  heigth="400"/>
      
       
   
