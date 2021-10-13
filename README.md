@@ -13,13 +13,7 @@ I am web developer and i love programming, computer science, ecc...
  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=andylampi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"  width="450" />
       
       
-      
-      
-
-     
-       
   
 
 ## Most Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andylampi&layout=compact)](https://github.com/andylampi/github-readme-stats)
-<img heigth="180"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
