@@ -15,5 +15,3 @@ I am web developer and i love programming, computer science, ecc...
       
   
 
-## Most Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andylampi&layout=compact)](https://github.com/andylampi/github-readme-stats)
