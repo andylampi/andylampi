@@ -1,5 +1,5 @@
 ### Hi there, I am Andrea Lampitelli  👋
-I am web developer and i love programming, computer science, ecc...
+I'm an suitor junior web developer and i love programming, computer science, ecc...
 
 - 🚀 I’m currently learning Javascript;
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="40%" height="318" />
