@@ -1,7 +1,7 @@
 ### Hi there, I am Andrea Lampitelli  👋
 I'm an suitor junior web developer and i love programming, computer science, ecc...
 
-- 🚀 I’m currently learning Javascript;
+- 🚀 I’m currently learning Javascript, nodejs;
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="40%" height="318" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
