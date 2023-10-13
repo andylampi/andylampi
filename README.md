@@ -1,9 +1,9 @@
 ### Hi there, I am Andrea Lampitelli  👋
-I'm an student of web developer and i love programming, computer science, ecc...
-I'm curios and I'm decisive.My dream is become an expert programmer so I give all of myself in programming.
-I spend much time to programmer for expand my skills and I enjoy myself. 
-- 🚀 I’m currently learning Javascript, nodejs; because i like Js and i would like to write code JS into backend.
-- 🌠 I have studied also python, a little of Django, C(at school and college) .
+I'm currently working as a web developer with a focus on the following:
+Programming Languages: Python, JavaScript, C
+Web Development: Node.js, React
+Database Management: MySQL, MongoDB, Oracle, SQL
+DevOps: Docker
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="40%" height="318" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
